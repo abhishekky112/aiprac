@@ -359,7 +359,7 @@ from sklearn import svm
 
 
 #Read CSV File
-df = pd.read_csv('./diabetes.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/abhishekky112/aiprac/refs/heads/main/diabetes.csv')
 df.head()
 df.shape
 df.describe()
@@ -459,7 +459,7 @@ from sklearn.metrics import accuracy_score
 import pandas as pd
 
 #Load the football dataset from CSV
-dataset = pd.read_csv('./football.csv')
+dataset = pd.read_csv('https://raw.githubusercontent.com/abhishekky112/aiprac/refs/heads/main/football.csv')
 
 #Seperate features (X) and Labels (y)
 A = dataset[['Argentina', 'France']].values
@@ -489,7 +489,7 @@ from sklearn.metrics import accuracy_score, roc_curve, auc
 import matplotlib.pyplot as plt
 
 # Load the Diabetes dataset
-url = './diabetes.csv'  # Adjust this path if necessary
+url = 'https://raw.githubusercontent.com/abhishekky112/aiprac/refs/heads/main/diabetes.csv'  # Adjust this path if necessary
 data = pd.read_csv(url)
 
 # Display the first few rows of the dataset
@@ -572,7 +572,7 @@ except ImportError:
 from apyori import apriori
 
 # Load the dataset
-df = pd.read_csv('./grocery.csv', parse_dates=['Date'], dayfirst=True)
+df = pd.read_csv('https://raw.githubusercontent.com/abhishekky112/aiprac/refs/heads/main/grocery.csv', parse_dates=['Date'], dayfirst=True)
 
 # Display the first few rows
 print(df.head())
