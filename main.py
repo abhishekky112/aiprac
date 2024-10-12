@@ -568,7 +568,6 @@ import plotly.express as px
 try:
     import apyori
 except ImportError:
-    !pip install apyori
 from apyori import apriori
 
 # Load the dataset
