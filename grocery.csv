@@ -1,0 +1,46 @@
+Member_number,Date,itemDescription
+1,2023-01-01,Apples
+1,2023-01-01,Bananas
+1,2023-01-01,Bread
+1,2023-01-02,Milk
+1,2023-01-02,Eggs
+1,2023-01-03,Cheese
+1,2023-01-03,Orange Juice
+1,2023-01-04,Butter
+2,2023-01-01,Apples
+2,2023-01-01,Bread
+2,2023-01-02,Eggs
+2,2023-01-02,Milk
+2,2023-01-03,Yogurt
+2,2023-01-04,Chocolate
+2,2023-01-04,Bananas
+3,2023-01-01,Orange Juice
+3,2023-01-02,Apples
+3,2023-01-02,Bananas
+3,2023-01-03,Bread
+3,2023-01-03,Milk
+3,2023-01-04,Cereal
+3,2023-01-04,Cheese
+4,2023-01-01,Chips
+4,2023-01-02,Soda
+4,2023-01-02,Apples
+4,2023-01-03,Bananas
+4,2023-01-03,Milk
+4,2023-01-04,Ice Cream
+5,2023-01-01,Cookies
+5,2023-01-02,Cake
+5,2023-01-02,Bread
+5,2023-01-03,Juice
+5,2023-01-04,Yogurt
+5,2023-01-04,Soda
+6,2023-01-01,Chicken
+6,2023-01-02,Rice
+6,2023-01-02,Beans
+6,2023-01-03,Spices
+6,2023-01-04,Vegetables
+7,2023-01-01,Bread
+7,2023-01-02,Milk
+7,2023-01-02,Cereal
+7,2023-01-03,Eggs
+7,2023-01-03,Bananas
+7,2023-01-04,Yogurt
