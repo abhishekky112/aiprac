@@ -564,10 +564,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 
-# Install apyori if not already installed
-try:
-    import apyori
-except ImportError:
+
 from apyori import apriori
 
 # Load the dataset
